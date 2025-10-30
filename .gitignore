@@ -1,0 +1,19 @@
+# Ignore Python virtual environment
+.venv/
+
+# Ignore local README
+README-local.md
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore log files
+*.log
